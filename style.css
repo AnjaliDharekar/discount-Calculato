@@ -29,6 +29,12 @@ form{
     font-size: x-large;
     font-weight: bolder;
 }
+a{ 
+    margin: 10px; font-size: x-large;
+}
+#icon{
+    text-align: right;
+}
 input{
     width: 300px;
     padding: 15px;
